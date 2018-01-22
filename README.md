@@ -1,7 +1,8 @@
 # 一个简单的浮窗工具
 
-本项目由：https://github.com/liuguangli/FloatUtil修改而来。
+原项目：https://github.com/liuguangli/FloatUtil
 感谢原作者，这是一个简单的浮窗工具。封装了浮窗的使用方法，并做了系统、版本的兼容处理，帮你绕过权限的限制。
+本项目主要是修改一些细节，适应自己的项目，主体代码是原项目，再次感谢原作者！！！！！！
 
 # 效果图
 
