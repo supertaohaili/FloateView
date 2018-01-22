@@ -1,13 +1,14 @@
 # 一个简单的浮窗工具
 
-本项目由https://github.com/liuguangli/FloatUtil修改而来，感谢原作者，这是一个简单的浮窗工具。封装了浮窗的使用方法，并做了系统、版本的兼容处理，帮你绕过权限的限制。
+本项目由：https://github.com/liuguangli/FloatUtil修改而来。
+感谢原作者，这是一个简单的浮窗工具。封装了浮窗的使用方法，并做了系统、版本的兼容处理，帮你绕过权限的限制。
 
 # 效果图
 
- <img src="https://github.com/supertaohaili/FloatUtil/blob/master/float_param.gif" width="300">
+ <img src="https://github.com/supertaohaili/FloateView/blob/master/float_param.gif" width="300">
 
 apk下载链接
-<a href="https://github.com/supertaohaili/FloatUtil/blob/master/floateutil1.0.1_2018-01-22.apk">https://github.com/supertaohaili/FloatUtil/blob/master/floateutil1.0.1_2018-01-22.apk</a>
+<a href="https://github.com/supertaohaili/FloateView/blob/master//floateutil1.0.1_2018-01-22.apk">https://github.com/supertaohaili/FloateView/blob/master/floateutil1.0.1_2018-01-22.apk</a>
 
 
 # 使用
@@ -20,7 +21,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.supertaohaili:FloatUtil:1.0.0'
+    compile 'com.github.supertaohaili:FloateView:1.0.0'
 }
 ```
 
