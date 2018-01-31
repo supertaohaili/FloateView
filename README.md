@@ -22,7 +22,7 @@ allprojects {
 }
 
 dependencies {
-      compile 'com.github.supertaohaili:FloateView:1.0.1'
+      compile 'com.github.supertaohaili:FloateView:1.0.2'
 }
 
 混淆
