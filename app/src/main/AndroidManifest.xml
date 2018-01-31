@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
         <activity android:name="com.thl.floateutil.MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar"
             >

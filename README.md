@@ -24,6 +24,10 @@ allprojects {
 dependencies {
       compile 'com.github.supertaohaili:FloateView:1.0.0'
 }
+
+混淆
+-keep class com.thl.floate.** { *; }
+-dontwarn com.thl.floate.**
 ```
 
 
